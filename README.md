@@ -8,9 +8,8 @@ This Android app is designed to help users manage and track to-do items for thei
 - Options Menu: For adding new items, accessing app information, and more.
 - Persistence: To-do items are loaded upon app launch and saved after modifications.
 - Screenshots
-![image](https://github.com/user-attachments/assets/36c02395-f382-4bf6-936a-63e1e963761b)
+- ![image](https://github.com/user-attachments/assets/36c02395-f382-4bf6-936a-63e1e963761b)
 ![image](https://github.com/user-attachments/assets/4d1f407a-68a3-48c4-8872-5488314061e8)
-![image](https://github.com/user-attachments/assets/7739e14f-7d75-4274-adb5-137aef2efb37)
 
 
 ## Technical Summary
